@@ -1,0 +1,24 @@
+{
+  "name": "test-npm-pak",
+  "version": "1.0.0",
+  "description": "this is an NPM to fetch test my first work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "test",
+    "hooks",
+    "npm"
+  ],
+  "author": "Mohammad Ibrahim",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "rollup": "^4.9.1"
+  }
+}
